@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body,html{
+    height: 100vh;
+    width: 100%;
+    font-family: "Trirong", serif;
+}
+
+.container{
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+}
